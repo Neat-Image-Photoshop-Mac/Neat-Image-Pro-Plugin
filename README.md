@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://aktautouta.github.io/.github/neatimage">  
+<a href="https://salidorandee.github.io/.github/neat-image-noise-reduction">  
 <img src="https://img.shields.io/badge/Get_Neat_Image-darkgreen?style=for-the-badge&logo=apple" alt="Get Neat Image">  
 </a>  
 </div>  
